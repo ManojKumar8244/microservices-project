@@ -213,21 +213,6 @@ Through this project, I gained hands-on experience with:
 
 ---
 
-## 📸 Screenshots
-
-Include screenshots of:
-
-- Docker Image Build
-- Docker Images List
-- Docker Hub Repository
-- Amazon ECR Repository
-- Docker Push Output
-- Docker Pull Output
-- Running Containers
-- Application Running
-
----
-
 ## ✅ Project Outcome
 
 Successfully containerized frontend and backend microservices and published Docker images to both Docker Hub and Amazon Elastic Container Registry (ECR). The project demonstrates industry-standard practices for container image creation, versioning, registry management, and image distribution, ensuring reliable and consistent application deployments across multiple environments.
